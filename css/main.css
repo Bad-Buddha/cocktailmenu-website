@@ -19,7 +19,7 @@ html {
 }
 
 .card {
-  width: 35%;
+  width: 47%;
   border: 1px solid #ccc;
   padding: 10px;
   margin-bottom: 5px;
@@ -92,7 +92,7 @@ p {
 main {
   min-width: 320px;
   /*max-width: 1000px;*/
-  padding: 50px;
+  padding: 0;
   margin: 1%;
   background: #fff;
 }
