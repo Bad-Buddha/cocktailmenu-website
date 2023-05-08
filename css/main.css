@@ -98,7 +98,7 @@ main {
 }
 
 section {
-  display: none;
+  dislay: none;
   font-size: 20px;
   padding: 20px 0 0;
   border-top: 1px solid #ddd;
@@ -109,8 +109,9 @@ input {
 }
 
 label {
+  width: 30%;
   display: inline-block;
-  font-size: 20px;
+  font-size: 15px;
   margin: 0 0 -1px;
   padding: 15px 25px;
   text-align: center;
@@ -125,7 +126,7 @@ label:hover {
 
 input:checked + label {
   color: #555;
-  font-size: 20px;
+  font-size: 15px;
   border: 1px solid #ddd;
   border-top: 2px solid orange;
   border-bottom: 1px solid #fff;
