@@ -121,11 +121,11 @@ input {
 label {
   width: 30%;
   display: inline-block;
-  font-size: 15px;
+  font-size: 17px;
   margin: 0 0 -1px;
   padding: 15px 25px;
   text-align: center;
-  color: #bbb;
+  color: #000;
   border: 1px solid transparent;
 }
 
@@ -135,8 +135,8 @@ label:hover {
 }
 
 input:checked + label {
-  color: #555;
-  font-size: 15px;
+  color: #000;
+  font-size: 18px;
   border: 1px solid #ddd;
   border-top: 2px solid orange;
   border-bottom: 1px solid #fff;
