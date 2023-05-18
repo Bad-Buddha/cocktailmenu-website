@@ -113,7 +113,7 @@ input {
 }
 
 label {
-  width: 32%;
+  width: 49%; /* Change back to 32% */
   display: inline-block;
   font-size: 17px;
   margin: 0 0 -1px;
